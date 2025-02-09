@@ -1,7 +1,7 @@
 <?php
 // Configuración de la base de datos
 $host = "127.0.0.1"; // Servidor de MySQL
-$dbname = "sinergia"; // Nombre de la base de datos
+$dbname = "sinergia_12"; // Nombre de la base de datos
 $username = "root"; // Usuario de MySQL
 $password = ""; // sin contraseña
 
